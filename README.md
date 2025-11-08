@@ -1,4 +1,5 @@
-## Hi there 👋
+🚀 Chanakya Sinde
+<h1 align="center">Hi, I'm Chanakya Sinde <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1> <p align="center"> <a href="https://github.com/Chanakyasinde/readme-typing-svg"> <img src="https://readme-typing-svg.herokuapp.com?lines=Open+Source+Contributor+|+Node.js+|+React+;Full+Stack+Developer+|+Prisma+|+React+Native;MERN+Stack+Engineer+|+Expo+|+Data+Structure&center=true&width=600&height=50"> </a> </p>
 
 <!--
 **Chanakyasinde/Chanakyasinde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
